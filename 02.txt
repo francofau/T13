@@ -1,0 +1,24 @@
+https://restcountries.eu/rest/v2/name/Guatemala
+
+[
+    {
+        "name": "Guatemala",
+        "topLevelDomain": [
+            ".gt"
+        ],
+        "alpha2Code": "GT",
+        "alpha3Code": "GTM",
+        "callingCodes": [
+            "502"
+        ],
+        "capital": "Guatemala City",
+        "altSpellings": [
+            "GT"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "population": 16176133,
+        "latlng": [
+            15.5,
+            -90.25
+        ],

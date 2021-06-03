@@ -1,0 +1,26 @@
+https://restcountries.eu/rest/v2/lang/bg
+
+[
+    {
+        "name": "Bulgaria",
+        "topLevelDomain": [
+            ".bg"
+        ],
+        "alpha2Code": "BG",
+        "alpha3Code": "BGR",
+        "callingCodes": [
+            "359"
+        ],
+        "capital": "Sofia",
+        "altSpellings": [
+            "BG",
+            "Republic of Bulgaria",
+            "Република България"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 7153784,
+        "latlng": [
+            43.0,
+            25.0
+        ],

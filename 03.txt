@@ -1,0 +1,26 @@
+https://restcountries.eu/rest/v2/name/Kazakhstan?fullText=true
+
+[
+    {
+        "name": "Kazakhstan",
+        "topLevelDomain": [
+            ".kz",
+            ".қаз"
+        ],
+        "alpha2Code": "KZ",
+        "alpha3Code": "KAZ",
+        "callingCodes": [
+            "76",
+            "77"
+        ],
+        "capital": "Astana",
+        "altSpellings": [
+            "KZ",
+            "Qazaqstan",
+            "Казахстан",
+            "Republic of Kazakhstan",
+            "Қазақстан Республикасы",
+            "Qazaqstan Respublïkası",
+            "Республика Казахстан",
+            "Respublika Kazakhstan"
+        ],

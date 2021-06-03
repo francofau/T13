@@ -1,0 +1,25 @@
+https://restcountries.eu/rest/v2/all
+
+[
+    {
+        "name": "Afghanistan",
+        "topLevelDomain": [
+            ".af"
+        ],
+        "alpha2Code": "AF",
+        "alpha3Code": "AFG",
+        "callingCodes": [
+            "93"
+        ],
+        "capital": "Kabul",
+        "altSpellings": [
+            "AF",
+            "Afġānistān"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 27657145,
+        "latlng": [
+            33.0,
+            65.0
+        ],

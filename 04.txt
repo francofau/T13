@@ -1,0 +1,24 @@
+https://restcountries.eu/rest/v2/alpha/AU
+
+{
+    "name": "Australia",
+    "topLevelDomain": [
+        ".au"
+    ],
+    "alpha2Code": "AU",
+    "alpha3Code": "AUS",
+    "callingCodes": [
+        "61"
+    ],
+    "capital": "Canberra",
+    "altSpellings": [
+        "AU"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 24117360,
+    "latlng": [
+        -27.0,
+        133.0
+    ],
+

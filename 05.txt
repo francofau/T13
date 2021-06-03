@@ -1,0 +1,26 @@
+https://restcountries.eu/rest/v2/alpha?codes=BH;BHR;973
+
+[
+    {
+        "name": "Bahrain",
+        "topLevelDomain": [
+            ".bh"
+        ],
+        "alpha2Code": "BH",
+        "alpha3Code": "BHR",
+        "callingCodes": [
+            "973"
+        ],
+        "capital": "Manama",
+        "altSpellings": [
+            "BH",
+            "Kingdom of Bahrain",
+            "Mamlakat al-Baḥrayn"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 1404900,
+        "latlng": [
+            26.0,
+            50.55
+        ],

@@ -1,0 +1,24 @@
+https://restcountries.eu/rest/v2/region/Americas
+
+[
+    {
+        "name": "Anguilla",
+        "topLevelDomain": [
+            ".ai"
+        ],
+        "alpha2Code": "AI",
+        "alpha3Code": "AIA",
+        "callingCodes": [
+            "1264"
+        ],
+        "capital": "The Valley",
+        "altSpellings": [
+            "AI"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 13452,
+        "latlng": [
+            18.25,
+            -63.16666666
+        ],
